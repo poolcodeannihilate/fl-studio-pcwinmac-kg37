@@ -1,4 +1,4 @@
-# 
+# Oficial FL Studio preajustes para Mac OS | Élite FL Studio preajustes para PC Windows. Con vista previa en tiempo real y procesamiento por lotes — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
